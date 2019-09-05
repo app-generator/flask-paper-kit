@@ -12,7 +12,9 @@ Blazing fast application coded in [Flask](https://palletsprojects.com/p/flask/) 
 
 @MIT. Grab the code and code something amazing. 
 
-**LIVE support via [Discord](https://discord.gg/fZC6hup)** for [Paid Plans](https://appseed.us/pricing).
+## Support
+
+**LIVE support** via [Discord](https://discord.gg/fZC6hup) for [Paid Plans](https://appseed.us/pricing).
 
 <br />
 
