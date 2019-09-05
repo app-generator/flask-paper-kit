@@ -1,6 +1,6 @@
 ﻿# [Flask Paper Kit](https://github.com/app-generator/flask-paper-kit)
 
-Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with SQLite database, authentication, SQLAlchemy ORM and a beautiful UI - Paper Design by Creative-Tim.
+Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - [Paper Kit Design](https://www.creative-tim.com/product/paper-kit) by Creative-Tim.
 
 <br />
 
