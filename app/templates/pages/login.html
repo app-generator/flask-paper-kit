@@ -1,0 +1,45 @@
+
+  <div class="page-header" style="background-image: url('/static/assets/img/login-image.jpg');">
+    <div class="filter"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4 ml-auto mr-auto">
+          <div class="card card-register">
+
+            <h3 class="title mx-auto">Login</h3>
+
+            {% if msg %}
+                <p>{{ msg | safe }}</p>
+            {% endif %}
+
+            <form method="post" action="" class="register-form">
+
+              {{ form.hidden_tag() }}
+
+              <label>Username</label>
+              {{ form.username(placeholder="Username",class="form-control") }}
+              
+              <label>Password</label>
+              {{ form.password(placeholder="Password",class="form-control") }}
+
+              <button class="btn btn-danger btn-block btn-round">Login</button>
+
+            </form>
+
+            <br />
+
+            <div class="forgot">
+              
+              or <a href={{ url_for('register') }}>Register</a> 
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer register-footer text-center">
+      <h6>© 
+        <script>
+          document.write(new Date().getFullYear())
+        </script> AppSeed - <a href="{{ data.product }}">Flask Paper Kit</a>
+    </div>

@@ -1,0 +1,50 @@
+
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg fixed-top navbar-transparent " color-on-scroll="300">
+    <div class="container">
+      <div class="navbar-translate">
+        <a class="navbar-brand" href="/" rel="tooltip" title="Flask App" data-placement="bottom">
+          Flask App
+        </a>
+        <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-bar bar1"></span>
+          <span class="navbar-toggler-bar bar2"></span>
+          <span class="navbar-toggler-bar bar3"></span>
+        </button>
+      </div>
+      <div class="collapse navbar-collapse justify-content-end" id="navigation">
+        <ul class="navbar-nav">
+
+          {% if current_user.is_authenticated %}
+            <li class="nav-item"><a class="nav-link" href={{ url_for('logout') }}>Logout</a></li>
+          {% else %}
+            <li class="nav-item"><a class="nav-link" href={{ url_for('login') }}>Sign In</a></li>
+          {% endif %}
+
+          <li class="nav-item">
+            <a href="/profile.html" class="nav-link">Profile</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="/components.html" class="nav-link">Help</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" rel="tooltip" title="Product Info" data-placement="bottom" href="{{ data.product }}">
+              <i class="fa fa-rocket"></i>
+              <p class="d-lg-none">Product</p>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" rel="tooltip" title="Source code" data-placement="bottom" href="{{ data.github }}">
+              <i class="fa fa-github"></i>
+              <p class="d-lg-none">Github</p>
+            </a>
+          </li>
+
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- End Navbar -->
