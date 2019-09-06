@@ -15,8 +15,8 @@ To use the app, please execute the commands:
 ```bash
 $ # clone the repo
 
-$ git clone https://github.com/app-generator/flask-argon-dashboard.git
-$ cd flask-argon-dashboard
+$ git clone https://github.com/app-generator/flask-paper-kit.git
+$ cd flask-paper-kit
 
 $ # install the dependencies
 $ pip install -r requirements.txt
