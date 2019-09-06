@@ -4,7 +4,7 @@ Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQL
 
 <br />
 
-![Flask Paper Kit - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/flask-paper-kit-intro.gif?raw=true)
+![Flask Paper Kit - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-paper-kit-intro.gif)
 
 <br />
 
