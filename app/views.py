@@ -129,13 +129,13 @@ def login():
                                                      msg=msg) )
 
 # Used only for static export
-#@app.route('/elements.html')
-#def elements():
-#
-#   return render_template('layouts/default.html',
-#                            page = "index",
-#                            footer_class = "footer-default",
-#                            content=render_template( 'pages/components.html') )
+@app.route('/elements.html')
+def elements():
+
+   return render_template('layouts/default.html',
+                            page = "index",
+                            footer_class = "footer-default",
+                            content=render_template( 'pages/components.html') )
 
 # Used only for static export
 #@app.route('/profile.html')

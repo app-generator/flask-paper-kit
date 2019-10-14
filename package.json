@@ -14,7 +14,7 @@
         "shell"        : "flask shell",
         "build-static" : "python ./static.py",
         "serve-static" : "serve app/build",
-        "deploy"       : "node deploy"
+        "deploy"       : "python ./static.py && node deploy"
     },
     "repository": {
         "type": "git",

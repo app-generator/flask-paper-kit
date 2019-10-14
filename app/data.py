@@ -14,13 +14,13 @@ class Data:
     email      =  'support@appseed.us'
     design     =  'Paper Design by Creative-Tim'
     
-    seo_title  = 'Flask App - Paper Design by Creative-Tim | AppSeed'
+    seo_title  = 'Flask Paper Kit - Built with Automation Tools | AppSeed App Generator'
     seo_desc   = 'Open-Source Flask app with Paper Design enhanced with authentication, SQLite database and tooling.'
     seo_keys   = 'flask, paper kit,  creative-tim, appseed'
 
-    product    = 'https://github.com/app-generator/flask-paper-kit'
+    product    = 'https://appseed.us/apps/flask-apps/flask-paper-kit'
     github     = 'https://github.com/app-generator/flask-paper-kit'
-    docs       = 'https://docs.appseed.us/apps/flask-apps/flask-paper-kit/'
+    docs       = 'https://docs.appseed.us/'
     appseed    = 'https://appseed.us'      
     generator  = 'https://appseed.us/app-generator'
     blog       = 'https://blog.appseed.us/'
