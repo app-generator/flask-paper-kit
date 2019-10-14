@@ -1,4 +1,4 @@
-# [Flask Paper Kit](https://flask-paper-kit.appseed.us/)
+# [Flask Paper Kit](https://appseed.us/apps/flask-apps/flask-paper-kit)
 
 Open-Source [Flask](https://palletsprojects.com/p/flask/) app enhanced with [SQLite](https://www.sqlite.org/index.html) database, authentication, [SQLAlchemy ORM](https://www.sqlalchemy.org/) and a beautiful UI - **Paper Kit Design** by Creative-Tim.
 
@@ -46,11 +46,12 @@ $ # App is running on http://localhost:5000
 
 ## Links & Resources
 
-- [Flask Paper Kit](https://flask-paper-kit.appseed.us/) - live demo
+- [Flask Paper Kit](https://flask-paper-kit.appseed.us/) - Live DEMO
+- [Flask Paper Kit](https://appseed.us/apps/flask-apps/flask-paper-kit) - product page 
 - [Flask](https://palletsprojects.com/p/flask/) - offcial website
 - A curated list with production-ready [Flask Apps](https://appseed.us/apps/flask-apps)
 
 <br />
 
 ---
-[Flask Paper Kit](https://flask-paper-kit.appseed.us/) - provided by **AppSeed**
+[Flask Paper Kit](https://appseed.us/apps/flask-apps/flask-paper-kit) - provided by **AppSeed**
