@@ -13,13 +13,12 @@
 ![Flask Paper Kit - Open-Source Web App coded in Flask.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-paper-kit-intro.gif)
 
 ## Setup the environment
----
 
 In order to use the boilerplate, we need [Python3](/what-is/python/) and `virtualenv` python library.
 
 <br />
 
-> *Note*: **Python2 is not supported**, the EOL of this version announced [here](https://www.python.org/doc/sunset-python-2/). In order to use our kits, please migrate to Pyhton3. Thank you!
+> *Note*: **Python2 is not supported**, the EOL of this version announced [here](https://www.python.org/doc/sunset-python-2/). In order to use our kits, please migrate to Pyhton3.
 
 <br />
 
@@ -35,9 +34,6 @@ $ pip3 install virtualenv
 <br />
 
 ## Build from [sources](https://github.com/app-generator/flask-paper-kit)
----
-
-<br />
 
 ```bash
 $ # 1. Get the code
@@ -78,8 +74,6 @@ $ # 5. Go to http://127.0.0.1:5000/, create an account and log in
 
 ## Project Structure
 
----
-
 The boilerplate code is built with a modular structure that follows the recommended pattern used by many open-source projects. The most important files / directories are listed bellow:
 
 - [run.py](https://github.com/app-generator/flask-paper-kit/blob/master/run.py)
@@ -108,8 +102,6 @@ The boilerplate code is built with a modular structure that follows the recommen
 <br />
 
 ## Support
-
----
 
 - Free support via eMail < [support @ appseed.us](https://appseed.us/support) > and [Github](https://github.com/app-generator/flask-paper-kit/issues/)
 - 24/7 Live Support via [Discord](https://discord.gg/fZC6hup) for paid plans and commercial products.
