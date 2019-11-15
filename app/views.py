@@ -73,8 +73,6 @@ def register():
 
     # try to match the pages defined in -> themes/phantom/pages/
     return render_template( 'layouts/default.html',
-                            title=page_title,
-                            description=page_description,
                             content=render_template( 'pages/register.html', form=form, msg=msg) )
 
 # authenticate user
@@ -111,8 +109,6 @@ def login():
 
     # try to match the pages defined in -> pages/
     return render_template( 'layouts/default.html',
-                            title=page_title,
-                            description=page_description,
                             page="login",
                             content=render_template( 'pages/login.html', 
                                                      form=form,
