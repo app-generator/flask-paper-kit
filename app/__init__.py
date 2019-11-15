@@ -1,8 +1,6 @@
 # -*- encoding: utf-8 -*-
 """
-Fully Coded App by AppSeed.us
-License: commercial
-Read more at https://appseed.us/pricing
+License: MIT
 Copyright (c) 2019 - present AppSeed.us
 """
 
