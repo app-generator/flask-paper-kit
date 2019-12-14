@@ -1,17 +1,17 @@
-# [Flask Material Kit](https://appseed.us/apps/flask-apps/flask-material-kit)
+# [Flask Paper Kit](https://appseed.us/apps/flask-apps/flask-paper-kit)
 
-**[Open-Source Web App](https://appseed.us/apps/flask-apps/flask-material-kit)** coded in **Flask Framework** on top of **Material Kit** design. **Features**:
+**[Open-Source Web App](https://appseed.us/apps/flask-apps/flask-material-kit)** coded in **Flask Framework** on top of **Paper Kit** design. **Features**:
 
 <br />
 
 - SQLite database
 - SQLAlchemy ORM
 - Session-Based authentication flow (login, register)
-- UI Kit: [Material Kit](https://github.com/app-generator/fork-material-kit-design) by **Creative-Tim**
+- UI Kit: [Paper Kit](https://github.com/app-generator/fork-paper-kit-html) by **Creative-Tim**
 
 <br />
 
-![Flask Material Kit - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-material-kit-intro.gif)
+![Flask Paper Kit - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-paper-kit-intro.gif)
 
 <br />
 
@@ -19,8 +19,8 @@
 
 ```bash
 $ # Clone the sources
-$ git clone https://github.com/app-generator/flask-material-kit.git
-$ cd flask-material-kit
+$ git clone https://github.com/app-generator/flask-paper-kit.git
+$ cd flask-paper-kit
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv --no-site-packages env
@@ -72,8 +72,7 @@ $ # Access the app in browser: http://127.0.0.1:5000/
 
 ## Credits & Links
 
-- [Flask Material Kit](https://appseed.us/admin-dashboards/flask-material-kit) - Product page
-- [Flask Material Kit](https://flask-material-kit.appseed.us/) - Live DEMO
+- [Flask Paper Kit](https://appseed.us/apps/flask-apps/flask-paper-kit) - Product page
 - [Flask Framework](https://www.palletsprojects.com/p/flask/) - The offcial website
 - [Flask Boilerplate - Open-Source Apps built with automation tools](https://dev.to/sm0ke/flask-boilerplate-open-source-apps-built-with-automation-tools-4925) - a popular article published on **Dev.to** platform
 <br />
@@ -85,4 +84,4 @@ $ # Access the app in browser: http://127.0.0.1:5000/
 <br />
 
 ---
-[Flask Material Kit](https://appseed.us/apps/flask-apps/flask-material-kit) provided by **AppSeed**
+[Flask Paper Kit](https://appseed.us/apps/flask-apps/flask-paper-kit) provided by **AppSeed**
