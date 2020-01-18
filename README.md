@@ -11,7 +11,7 @@
 
 <br />
 
-![Flask Paper Kit - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-paper-kit-intro.gif)
+![Flask Paper Kit - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-paper-kit-screen.png)
 
 <br />
 
