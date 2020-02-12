@@ -16,14 +16,17 @@
         <div class="col-lg-4 ml-auto mr-auto">
           <div class="card card-register">
             <h3 class="title mx-auto">
-            
+                Register
+            </h3>
+
+            <p class="text-center">
               {% if msg %}
                 {{ msg | safe }}
               {% else %}
-                Register
+                Add your credentials 
+                OR <a href={{ url_for('login') }} >authenticate</a> with an existing account.              
               {% endif %}  
-
-            </h3>
+            </p>
             <div class="social-line text-center">
               <a href="#pablo" class="btn btn-neutral btn-facebook btn-just-icon">
                 <i class="fa fa-facebook-square"></i>

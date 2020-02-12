@@ -16,14 +16,17 @@
         <div class="col-lg-4 ml-auto mr-auto">
           <div class="card card-register">
             <h3 class="title mx-auto">
-            
+                Login
+            </h3>
+
+            <p class="text-center">
               {% if msg %}
                 {{ msg | safe }}
               {% else %}
-                Sign in
+                Use default credentials: <strong>test / pass</strong>
+                OR <a href={{ url_for('register') }} >create your own user</a>              
               {% endif %}  
-
-            </h3>
+            </p>
             <div class="social-line text-center">
               <a href="#pablo" class="btn btn-neutral btn-facebook btn-just-icon">
                 <i class="fa fa-facebook-square"></i>
