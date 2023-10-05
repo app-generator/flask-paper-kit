@@ -1,8 +1,8 @@
 # [Flask Paper Kit](https://appseed.us/apps/flask-apps/flask-paper-kit)
 
-**Open-Source Web App** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+`Open-Source` **[Flask App](https://appseed.us/apps/flask/)** crafted on top of a modern design, Paper Kit Design - Provided by **AppSeed**.
 
-### App Features:
+> Features
 
 - SQLite database
 - SQLAlchemy ORM
